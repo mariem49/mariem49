@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariem Abidi
 
-<!--
-**mariem49/mariem49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Architecture Engineering Student | Full Stack Developer | AI & DevOps Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="YOUR_BANNER_URL">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 Fourth-year Software Architecture Engineering student at ESPRIT
+
+🚀 Junior Web Developer & Team Lead at Tabaani
+
+🤖 Passionate about AI, Machine Learning and Intelligent Systems
+
+☁️ Interested in Cloud Computing, Kubernetes and DevOps
+
+🏗️ Building scalable microservices and SaaS platforms
+
+🌍 Based in Tunisia
+
+---
+
+## 🏆 Current Projects
+
+### 🎯 Skillio
+AI-powered e-learning platform with certifications, events and recruitment.
+
+### 🌐 Assil Builder
+AI-assisted SaaS website generation platform for tourism companies.
+
+### ⚙️ SmartDeploy
+Complete DevOps pipeline with Jenkins, Docker, Kubernetes and monitoring.
+
+### 🤖 RH by Layla
+AI mock interview platform powered by Gemini AI.
+
+---
+
+## 💻 Technical Skills
