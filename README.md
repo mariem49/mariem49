@@ -1,68 +1,70 @@
 <h1 align="center">👋 Hi, I'm Mariem Abidi</h1>
 
 <h3 align="center">
-Software Architecture Engineering Student | AI & DevOps Enthusiast
+Software Architecture Engineering Student | Full Stack Developer | AI & DevOps Enthusiast
 </h3>
+
+<p align="center">
+  <a href="https://github.com/mariem49">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Architecture+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+%26+DevOps;Building+Scalable+Software+Systems" />
+  </a>
+</p>
 
 ---
 
 # 👩‍💻 About Me
 
-I am a fourth-year Software Architecture Engineering student at ESPRIT School of Engineering.
+I am a fourth-year **Software Architecture Engineering** student at **ESPRIT School of Engineering**, passionate about software development, artificial intelligence, cloud computing, and DevOps.
 
-💻 Passionate about Software Development
+🚀 Currently working as **Junior Web Developer & Team Lead at Tabaani**
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 Interested in **Artificial Intelligence, Machine Learning, LLMs, and Intelligent Systems**
 
-☁️ Exploring Cloud Computing and DevOps Technologies
+☁️ Passionate about **Cloud Computing, Kubernetes, Docker, and DevOps**
 
-🏗️ Learning Software Architecture and Distributed Systems
+🏗️ Building scalable **Microservices Architectures** and **SaaS Platforms**
 
 🌍 Based in Tunisia
 
-📚 Always eager to learn new technologies and take on technical challenges
+💡 Always looking for innovative projects and technical challenges
 
 ---
 
-# 🎓 Education
 
-### ESPRIT School of Engineering
-
-Software Architecture Engineering
-
-### ESPRIT School of Engineering
-
-Integrated Preparatory Cycle
-
----
 
 # 💻 Technical Skills
 
-### Programming & Web
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php" />
 </p>
 
-### Frameworks & Libraries
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,spring,symfony,nodejs,dotnet" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" />
 </p>
 
-### Databases
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,symfony,dotnet" />
 </p>
 
-### DevOps & Cloud
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis" />
 </p>
 
-### Tools
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,prometheus,linux" />
+</p>
+
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
@@ -70,28 +72,38 @@ Integrated Preparatory Cycle
 
 ---
 
-# 🌍 Languages
+# 🤖 AI & Machine Learning
 
-- 🇹🇳 Arabic — Native
-- 🇬🇧 English — Advanced (C1)
-- 🇫🇷 French — Fluent (B2)
-- 🇩🇪 German — Basic (A2)
+- Custom Machine Learning Models
+- Google Gemini AI
+- Groq API
+- AI-Powered Applications
+- Intelligent Assistants
+- LLM Integration
+- AI Automation
 
 ---
 
-# 🤝 Connect With Me
+# 📚 Education
+
+### 🎓 ESPRIT School of Engineering
+
+**Software Architecture Engineering**
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/mariem49">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mariem.abidi@esprit.tn">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/mariem49">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -100,15 +112,19 @@ Integrated Preparatory Cycle
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariem49&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariem49&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariem49&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariem49&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariem49"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariem49&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐ Welcome to my GitHub profile!
+# ⚡ Fun Fact
+
+> "Building software is not only about writing code; it's about creating solutions that make an impact."
+
+⭐ Feel free to explore my repositories and connect with me.
