@@ -109,6 +109,7 @@ I am a fourth-year **Software Architecture Engineering** student at **ESPRIT Sch
 
 ---
 
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariem49&show_icons=true&theme=tokyonight"/>
